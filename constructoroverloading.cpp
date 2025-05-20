@@ -13,4 +13,3 @@ class mahasiswa{
     mahasiswa(int INim, string iNama);
     void cetak();
 };
-
